@@ -4,7 +4,6 @@ My own UI Manager design that uses keys and events to manage ui elements.
 
 ![AWFLAFLAJLFKJALWkf](https://github.com/Woikz0/key-based-ui-mngr/assets/87724680/38fc69db-f887-473e-ac88-9c24989006f5)
 
-### awd
 
 - **Disable On Load**:
 Option disables the script object automatically on start.
